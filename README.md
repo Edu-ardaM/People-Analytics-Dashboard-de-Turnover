@@ -1,4 +1,4 @@
-# 📊 People Analytics: Case de Diagnóstico e Análise de Turnover
+# People Analytics: Case de Diagnóstico e Análise de Turnover
 
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
 
