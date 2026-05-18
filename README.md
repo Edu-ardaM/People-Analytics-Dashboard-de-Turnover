@@ -1,6 +1,6 @@
 # 📊 People Analytics: Case de Diagnóstico e Análise de Turnover
 
-![Ferramenta](https://img.shields.io/badge/Ferramenta-Power%20BI-blue)
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
 
 Este repositório contém um projeto de Business Intelligence focado em **People Analytics**. O objetivo é transformar dados brutos de movimentação de pessoal em um diagnóstico estratégico sobre a retenção de talentos da organização, identificando gargalos operacionais e gerando recomendações para a alta liderança.
 
