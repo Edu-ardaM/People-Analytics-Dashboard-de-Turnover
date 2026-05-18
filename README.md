@@ -1,8 +1,6 @@
 # 📊 People Analytics: Case de Diagnóstico e Análise de Turnover
 
-![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Ferramenta](https://img.shields.io/badge/Ferramenta-Power%20BI-blue)
-![Área](https://img.shields.io/badge/%C3%81rea-Recursos%20Humanos-orange)
 
 Este repositório contém um projeto de Business Intelligence focado em **People Analytics**. O objetivo é transformar dados brutos de movimentação de pessoal em um diagnóstico estratégico sobre a retenção de talentos da organização, identificando gargalos operacionais e gerando recomendações para a alta liderança.
 
